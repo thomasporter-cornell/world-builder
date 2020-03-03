@@ -1,6 +1,7 @@
 # world-builder
 
 This is a python script to build text adventure jsons for A2 and the GOOD SCOPE of A3, according to my implementation. 
+It is a combined graphical and terminal interface, so keep both windows open and be ready to switch between them.
 
 Requires pygame. 
 
@@ -20,3 +21,5 @@ Commands:
  - Save by exiting the pygame window, NOT THE TERMINAL.
 
 The code is not elegant, and there is no error handling. It is just a quick and dirty tool for building a world edits will have to be made in the file, as will adding compatibility with A3 excellent scope. 
+
+Also you may want to go into the code and edit the dimensions (screensize and radius) so it fits on your computer.
